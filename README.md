@@ -32,7 +32,7 @@ Run ruby tools/console.rb in console to seed
 Here is some example seed data:
 
 spongebob= Student.new("Spongebob")
- patrick= Student.new("Patrick")
+patrick= Student.new("Patrick")
 
 puff= Instructor.new("Ms.Puff")
 krabs= Instructor.new("Mr.Krabs")
